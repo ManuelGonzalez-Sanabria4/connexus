@@ -801,8 +801,7 @@ botonDesbloquear.addEventListener(
             setTimeout(
                 function() {
 
-                    window.location.href =
-                        "index.html";
+                    window.location.href = "web.html";
 
                 },
                 600
