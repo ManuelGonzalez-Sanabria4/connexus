@@ -51,7 +51,7 @@ body {
 
 /* 1. HEADER */
 .seccion-header {
-    background-image: url('imagenes/primer\ fondo.png');
+    background-image: url('Imagenes/primer\ fondo.png');
     background-repeat: no-repeat;
     
     display: flex;
@@ -73,14 +73,14 @@ body {
 .btn-forma-organica {
     display: flex; justify-content: center; align-items: center;
     width: 200px; height: 60px; margin: 10px 0;
-    background-image: url('imagenes/boton.png');
+    background-image: url('Imagenes/boton.png');
     background-size: contain; background-repeat: no-repeat; background-position: center;
     color: #0b1a30; text-decoration: none; font-weight: 600; font-size: 14px;
 }
 
 /* 2. DESARROLLO VERDE */
 .seccion-verde {
-    background-image: url('imagenes/segundo\ fondo.png');
+    background-image: url('Imagenes/segundo\ fondo.png');
     /* Se repite hacia abajo por si el texto + imagen es más alto que tu corte de imagen */
     background-repeat: repeat-y; 
     
@@ -96,7 +96,7 @@ body {
 
 /* 3. INVITACIÓN AZUL */
 .seccion-azul-invitacion {
-    background-image: url('imagenes/tercer\ fondo.png');
+    background-image: url('Imagenes/tercer\ fondo.png');
     background-repeat: no-repeat;
     
     display: flex;
@@ -115,7 +115,7 @@ body {
 
 /* 4. FOOTER CREMA */
 .seccion-footer {
-    background-image: url('imagenes/ultimo\ fondo.png');
+    background-image: url('Imagenes/ultimo\ fondo.png');
     background-repeat: repeat-y;
     
     padding: 10% 20px 15% 20px;
